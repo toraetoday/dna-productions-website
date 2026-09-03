@@ -19,7 +19,7 @@ export default function ServicesPage() {
 
       <div className="grid gap-6 lg:grid-cols-2">
         {services.map((service, index) => (
-          <article key={service.title} className="rounded-[2rem] border border-white/10 bg-[#10171d] p-7">
+          <article id={`service-${["commercial-av", "sound-tuning", "lighting", "security"][index]}`} key={service.title} className="scroll-mt-28 rounded-[2rem] border border-white/10 bg-[#10171d] p-7">
             <div className="mb-5 text-[0.62rem] uppercase tracking-[0.26em] text-[#8fe0ff]">0{index + 1}</div>
             <h2 className="text-3xl font-medium tracking-[-0.05em] text-white">{service.title}</h2>
             <p className="mt-4 text-base leading-7 text-zinc-300">{service.description}</p>

@@ -47,10 +47,10 @@ function SiteFooter() {
         <div>
           <h3 className="mb-4 text-sm font-medium uppercase tracking-[0.28em] text-zinc-400">Services</h3>
           <ul className="space-y-3 text-sm text-zinc-300">
-            <li>Commercial AV</li>
-            <li>Sound &amp; Tuning</li>
-            <li>Lighting</li>
-            <li>Security</li>
+            <li><Link href="/services#service-commercial-av" className="transition hover:text-white">Commercial AV</Link></li>
+            <li><Link href="/services#service-sound-tuning" className="transition hover:text-white">Sound &amp; Tuning</Link></li>
+            <li><Link href="/services#service-lighting" className="transition hover:text-white">Lighting</Link></li>
+            <li><Link href="/services#service-security" className="transition hover:text-white">Security</Link></li>
           </ul>
         </div>
 
@@ -113,8 +113,8 @@ export function SiteShell({ children }: { children: ReactNode }) {
               />
             </div>
             <div>
-              <div className="text-[0.62rem] uppercase tracking-[0.35em] text-zinc-400">Production</div>
               <div className="text-sm font-medium text-white">DNA</div>
+              <div className="text-[0.62rem] uppercase tracking-[0.35em] text-zinc-400">Production</div>
             </div>
           </Link>
 
