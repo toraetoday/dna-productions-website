@@ -10,11 +10,11 @@ export default function ContactPage() {
           <div className="mt-8 space-y-5 text-base text-zinc-300">
             <div className="flex items-center gap-3">
               <Phone className="h-4 w-4 text-[#6ad5ff]" />
-              <span>651 592 1238</span>
+              <a href="tel:+16515921238" className="transition hover:text-white">651 592 1238</a>
             </div>
             <div className="flex items-center gap-3">
               <Mail className="h-4 w-4 text-[#6ad5ff]" />
-              <span>darren@dnaproduction.net</span>
+              <a href="mailto:darren@dnaproduction.net" className="transition hover:text-white">darren@dnaproduction.net</a>
             </div>
             <div className="flex items-center gap-3">
               <MapPin className="h-4 w-4 text-[#6ad5ff]" />

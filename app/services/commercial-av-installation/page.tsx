@@ -128,7 +128,7 @@ export default function CommercialAVInstallationPage() {
               </Link>
 
               <div className="text-sm text-zinc-300">
-                Prefer to talk? <span className="text-white">[PHONE NUMBER]</span>
+                Prefer to talk? <a href="tel:+16515921238" className="text-white">651-592-1238</a>
               </div>
             </div>
           </div>
@@ -353,7 +353,6 @@ export default function CommercialAVInstallationPage() {
       <section className="mx-auto max-w-7xl px-4 pb-20 pt-12 sm:px-6 lg:px-8">
         <div className="rounded-[2rem] border border-[#d9b7a3]/20 bg-[#10171d] p-8 md:p-12">
           <div className="mb-8 max-w-2xl">
-            <div className="text-[0.68rem] uppercase tracking-[0.28em] text-[#d9b7a3]">Request a quote</div>
             <h2 className="mt-3 text-3xl font-medium tracking-[-0.05em] text-white sm:text-5xl">Ready to Discuss Your Project?</h2>
           </div>
 
@@ -413,7 +412,7 @@ export default function CommercialAVInstallationPage() {
               </div>
 
               <button type="submit" className="inline-flex items-center gap-2 rounded-full border border-[#d9b7a3]/80 bg-[#d9b7a3] px-5 py-3 text-[0.62rem] uppercase tracking-[0.22em] text-[#17110d] transition hover:bg-[#eac7ae]">
-                Get A Quote
+                Send Inquiry
                 <ArrowRight className="h-4 w-4" />
               </button>
             </form>

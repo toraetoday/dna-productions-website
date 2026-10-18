@@ -4,6 +4,7 @@ export type NavItem = {
 };
 
 export type ServiceItem = {
+  id: string;
   title: string;
   description: string;
   detail: string;
@@ -12,9 +13,11 @@ export type ServiceItem = {
 export type ProjectItem = {
   title: string;
   category: string;
-  location: string;
+  location?: string;
   image: string;
-  summary: string;
+  additionalImages?: string[];
+  summary?: string;
+  showOnHome?: boolean;
 };
 
 export const navItems: NavItem[] = [
@@ -29,28 +32,51 @@ export const navItems: NavItem[] = [
 
 export const services: ServiceItem[] = [
   {
+    id: "commercial-av",
     title: "Commercial AV Installation",
     description: "Integrated sound, video, and system design for live venues and commercial spaces.",
     detail: "From concept through commissioning, DNA delivers polished systems that perform under pressure.",
   },
   {
+    id: "lighting",
     title: "Venue & Stage Lighting",
     description: "Programming, installs, and control systems for experiential events and performance spaces.",
     detail: "We shape atmosphere with lighting systems that feel cinematic, technical, and reliable.",
   },
   {
+    id: "sound-tuning",
     title: "Speaker Repair & Tuning",
     description: "Service, calibration, and technical support for high-performance audio systems.",
     detail: "Precision tuning and equipment care keep systems sounding consistent and event-ready.",
   },
   {
+    id: "security",
     title: "Security & Network Integration",
     description: "Commercial security, camera, access control, and network infrastructure installations.",
     detail: "We blend operational security with clean, scalable system architecture.",
   },
+  {
+    id: "pos",
+    title: "POS Systems",
+    description: "Point-of-sale systems integrated with venue audio, video, and network infrastructure.",
+    detail: "Reliable POS technology designed to support smooth day-to-day operations.",
+  },
+  {
+    id: "turnkey-systems",
+    title: "Turnkey Systems",
+    description: "Complete audio, video, lighting, security, POS, and networking systems delivered as one coordinated solution.",
+    detail: "From system planning through installation and commissioning, DNA coordinates the full project.",
+  },
 ];
 
 export const featuredProjects: ProjectItem[] = [
+  {
+    title: "Venue Installation",
+    category: "Sound + installation",
+    image: "/images/portfolio/8138.JPG",
+    additionalImages: ["/images/portfolio/8141.JPG"],
+    showOnHome: true,
+  },
   {
     title: "Champion",
     category: "Live event environment",

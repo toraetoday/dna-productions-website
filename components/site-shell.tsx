@@ -47,7 +47,7 @@ function SiteFooter() {
         <div>
           <h3 className="mb-4 text-sm font-medium uppercase tracking-[0.28em] text-zinc-400">Services</h3>
           <ul className="space-y-3 text-sm text-zinc-300">
-            <li><Link href="/services#service-commercial-av" className="transition hover:text-white">Commercial AV</Link></li>
+            <li><Link href="/services/commercial-av-installation" className="transition hover:text-white">Commercial AV</Link></li>
             <li><Link href="/services#service-sound-tuning" className="transition hover:text-white">Sound &amp; Tuning</Link></li>
             <li><Link href="/services#service-lighting" className="transition hover:text-white">Lighting</Link></li>
             <li><Link href="/services#service-security" className="transition hover:text-white">Security</Link></li>
@@ -59,11 +59,11 @@ function SiteFooter() {
           <ul className="space-y-3 text-sm text-zinc-300">
             <li className="flex items-center gap-2">
               <Phone className="h-4 w-4 text-[#6ad5ff]" />
-              <span>651 592 1238</span>
+              <a href="tel:+16515921238" className="transition hover:text-white">651 592 1238</a>
             </li>
             <li className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-[#6ad5ff]" />
-              <span>darren@dnaproduction.net</span>
+              <a href="mailto:darren@dnaproduction.net" className="transition hover:text-white">darren@dnaproduction.net</a>
             </li>
             <li className="flex items-center gap-2">
               <MapPin className="h-4 w-4 text-[#6ad5ff]" />
