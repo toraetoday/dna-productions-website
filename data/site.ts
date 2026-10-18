@@ -74,7 +74,11 @@ export const featuredProjects: ProjectItem[] = [
     title: "Venue Installation",
     category: "Sound + installation",
     image: "/images/portfolio/8138.JPG",
-    additionalImages: ["/images/portfolio/8141.JPG"],
+    additionalImages: [
+      "/images/portfolio/8141.JPG",
+      "/images/portfolio/8147.JPG",
+      "/images/portfolio/8148.JPG",
+    ],
     showOnHome: true,
   },
   {

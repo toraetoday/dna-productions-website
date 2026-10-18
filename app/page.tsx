@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { featuredProjects } from "@/data/site";
+import { ProjectPhotoGallery } from "@/components/project-photo-gallery";
 
 function DnaTreeMark({ className = "h-20 w-20" }: { className?: string }) {
   return (
@@ -102,19 +103,11 @@ export default function Home() {
           <div className="grid gap-5 sm:gap-6">
             {featuredProjects.filter((project) => project.showOnHome).map((project) => (
               <article key={project.title} className="overflow-hidden border border-white/10 bg-white/[0.025] transition hover:border-[#8fe0ff]/35">
-                <div className="grid gap-px bg-white/10 sm:grid-cols-2">
-                  {[project.image, ...(project.additionalImages ?? [])].map((image, index) => (
-                    <div key={image} className="relative aspect-[4/3] overflow-hidden bg-[#10171d]">
-                      <Image
-                        src={image}
-                        alt={`${project.title}${index > 0 ? `, photo ${index + 1}` : ""}`}
-                        width={1200}
-                        height={900}
-                        sizes="(max-width: 639px) 100vw, 550px"
-                        className="h-full w-full object-cover transition duration-500 hover:scale-[1.025]"
-                      />
-                    </div>
-                  ))}
+                <div className="p-3 sm:p-4">
+                  <ProjectPhotoGallery
+                    title={project.title}
+                    images={[project.image, ...(project.additionalImages ?? [])]}
+                  />
                 </div>
                 <div className="space-y-3 p-4 sm:p-5">
                   <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-[0.55rem] uppercase tracking-[0.2em] text-white/50 sm:text-[0.6rem]">
