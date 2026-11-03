@@ -1,6 +1,19 @@
-import Image from "next/image";
-
+import { ProjectCard } from "@/components/project-card";
+import type { ProjectPhoto } from "@/components/project-gallery";
+import championPhotos from "@/data/champion-photos.json";
+import systemPhotos from "@/data/system-photos.json";
 import { featuredProjects } from "@/data/site";
+
+function getProjectPhotos(title: string, image: string, additionalImages: string[] = []): ProjectPhoto[] {
+  if (title === "Champion") return championPhotos.photos;
+  if (title === "The System") return systemPhotos.photos;
+
+  return [image, ...additionalImages].map((src, index) => ({
+    alt: `${title} project photo ${index + 1}`,
+    thumbnail: src,
+    full: src,
+  }));
+}
 
 export default function ProjectsPage() {
   return (
@@ -12,34 +25,13 @@ export default function ProjectsPage() {
         </h1>
       </div>
 
-      <div className="grid gap-6 md:grid-cols-2">
-        {featuredProjects.map((project, index) => (
-          <article
+      <div className="grid items-stretch gap-6 md:grid-cols-2">
+        {featuredProjects.map((project) => (
+          <ProjectCard
             key={project.title}
-            className={`overflow-hidden rounded-[2rem] border border-white/10 bg-[#10171d] ${index % 2 === 0 ? "md:translate-y-8" : ""}`}
-          >
-            <div className="grid gap-px bg-white/10 sm:grid-cols-2">
-              {[project.image, ...(project.additionalImages ?? [])].map((image, imageIndex) => (
-                <Image
-                  key={image}
-                  src={image}
-                  alt={`${project.title}${imageIndex > 0 ? `, photo ${imageIndex + 1}` : ""}`}
-                  width={1200}
-                  height={900}
-                  sizes="(max-width: 639px) 100vw, 50vw"
-                  className="h-[280px] w-full bg-[#10171d] object-cover sm:h-[320px]"
-                />
-              ))}
-            </div>
-            <div className="space-y-4 p-6">
-              <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-[0.62rem] uppercase tracking-[0.24em] text-zinc-400">
-                <span>{project.category}</span>
-                {project.location ? <span>{project.location}</span> : null}
-              </div>
-              <h2 className="text-3xl font-medium tracking-[-0.05em] text-white">{project.title}</h2>
-              {project.summary ? <p className="text-base leading-7 text-zinc-300">{project.summary}</p> : null}
-            </div>
-          </article>
+            project={project}
+            photos={getProjectPhotos(project.title, project.image, project.additionalImages)}
+          />
         ))}
       </div>
     </div>

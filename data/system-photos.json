@@ -1,0 +1,588 @@
+{
+  "photos": [
+    {
+      "alt": "THE SYSTEM event photo 01",
+      "thumbnail": "/images/projects/the-system/thumbnails/01-20161215_154615.webp",
+      "full": "/images/projects/the-system/full/01-20161215_154615.webp",
+      "source": "20161215_154615.jpg",
+      "sourceWidth": 4128,
+      "sourceHeight": 2322
+    },
+    {
+      "alt": "THE SYSTEM event photo 02",
+      "thumbnail": "/images/projects/the-system/thumbnails/02-20161215_154621.webp",
+      "full": "/images/projects/the-system/full/02-20161215_154621.webp",
+      "source": "20161215_154621.jpg",
+      "sourceWidth": 4128,
+      "sourceHeight": 2322
+    },
+    {
+      "alt": "THE SYSTEM event photo 03",
+      "thumbnail": "/images/projects/the-system/thumbnails/03-20180225_004653.webp",
+      "full": "/images/projects/the-system/full/03-20180225_004653.webp",
+      "source": "20180225_004653.jpg",
+      "sourceWidth": 3264,
+      "sourceHeight": 1836
+    },
+    {
+      "alt": "THE SYSTEM event photo 04",
+      "thumbnail": "/images/projects/the-system/thumbnails/04-20180421_215110.webp",
+      "full": "/images/projects/the-system/full/04-20180421_215110.webp",
+      "source": "20180421_215110.jpg",
+      "sourceWidth": 3264,
+      "sourceHeight": 1836
+    },
+    {
+      "alt": "THE SYSTEM event photo 05",
+      "thumbnail": "/images/projects/the-system/thumbnails/05-20180421_215142.webp",
+      "full": "/images/projects/the-system/full/05-20180421_215142.webp",
+      "source": "20180421_215142.jpg",
+      "sourceWidth": 3264,
+      "sourceHeight": 1836
+    },
+    {
+      "alt": "THE SYSTEM event photo 06",
+      "thumbnail": "/images/projects/the-system/thumbnails/06-20180421_215151.webp",
+      "full": "/images/projects/the-system/full/06-20180421_215151.webp",
+      "source": "20180421_215151.jpg",
+      "sourceWidth": 3264,
+      "sourceHeight": 1836
+    },
+    {
+      "alt": "THE SYSTEM event photo 07",
+      "thumbnail": "/images/projects/the-system/thumbnails/07-20180421_215153.webp",
+      "full": "/images/projects/the-system/full/07-20180421_215153.webp",
+      "source": "20180421_215153.jpg",
+      "sourceWidth": 3264,
+      "sourceHeight": 1836
+    },
+    {
+      "alt": "THE SYSTEM event photo 08",
+      "thumbnail": "/images/projects/the-system/thumbnails/08-20210710_161825.webp",
+      "full": "/images/projects/the-system/full/08-20210710_161825.webp",
+      "source": "20210710_161825.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 09",
+      "thumbnail": "/images/projects/the-system/thumbnails/09-20210710_161831.webp",
+      "full": "/images/projects/the-system/full/09-20210710_161831.webp",
+      "source": "20210710_161831.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 10",
+      "thumbnail": "/images/projects/the-system/thumbnails/10-20210710_161834.webp",
+      "full": "/images/projects/the-system/full/10-20210710_161834.webp",
+      "source": "20210710_161834.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 11",
+      "thumbnail": "/images/projects/the-system/thumbnails/11-20210710_161846.webp",
+      "full": "/images/projects/the-system/full/11-20210710_161846.webp",
+      "source": "20210710_161846.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 12",
+      "thumbnail": "/images/projects/the-system/thumbnails/12-20210710_184342.webp",
+      "full": "/images/projects/the-system/full/12-20210710_184342.webp",
+      "source": "20210710_184342.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 13",
+      "thumbnail": "/images/projects/the-system/thumbnails/13-20210710_185252.webp",
+      "full": "/images/projects/the-system/full/13-20210710_185252.webp",
+      "source": "20210710_185252.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 14",
+      "thumbnail": "/images/projects/the-system/thumbnails/14-20210710_193728.webp",
+      "full": "/images/projects/the-system/full/14-20210710_193728.webp",
+      "source": "20210710_193728.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 15",
+      "thumbnail": "/images/projects/the-system/thumbnails/15-20210710_193729.webp",
+      "full": "/images/projects/the-system/full/15-20210710_193729.webp",
+      "source": "20210710_193729.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 16",
+      "thumbnail": "/images/projects/the-system/thumbnails/16-20210710_193731.webp",
+      "full": "/images/projects/the-system/full/16-20210710_193731.webp",
+      "source": "20210710_193731.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 17",
+      "thumbnail": "/images/projects/the-system/thumbnails/17-20210710_193736.webp",
+      "full": "/images/projects/the-system/full/17-20210710_193736.webp",
+      "source": "20210710_193736.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 18",
+      "thumbnail": "/images/projects/the-system/thumbnails/18-20210710_193739.webp",
+      "full": "/images/projects/the-system/full/18-20210710_193739.webp",
+      "source": "20210710_193739.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 19",
+      "thumbnail": "/images/projects/the-system/thumbnails/19-20210711_182817.webp",
+      "full": "/images/projects/the-system/full/19-20210711_182817.webp",
+      "source": "20210711_182817.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 20",
+      "thumbnail": "/images/projects/the-system/thumbnails/20-20210712_211250.webp",
+      "full": "/images/projects/the-system/full/20-20210712_211250.webp",
+      "source": "20210712_211250.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 21",
+      "thumbnail": "/images/projects/the-system/thumbnails/21-20210712_211251.webp",
+      "full": "/images/projects/the-system/full/21-20210712_211251.webp",
+      "source": "20210712_211251.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 22",
+      "thumbnail": "/images/projects/the-system/thumbnails/22-20210712_211315.webp",
+      "full": "/images/projects/the-system/full/22-20210712_211315.webp",
+      "source": "20210712_211315.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 23",
+      "thumbnail": "/images/projects/the-system/thumbnails/23-20210712_211324.webp",
+      "full": "/images/projects/the-system/full/23-20210712_211324.webp",
+      "source": "20210712_211324.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 24",
+      "thumbnail": "/images/projects/the-system/thumbnails/24-20210712_211329.webp",
+      "full": "/images/projects/the-system/full/24-20210712_211329.webp",
+      "source": "20210712_211329.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 25",
+      "thumbnail": "/images/projects/the-system/thumbnails/25-20210712_211338.webp",
+      "full": "/images/projects/the-system/full/25-20210712_211338.webp",
+      "source": "20210712_211338.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 26",
+      "thumbnail": "/images/projects/the-system/thumbnails/26-20210712_211340.webp",
+      "full": "/images/projects/the-system/full/26-20210712_211340.webp",
+      "source": "20210712_211340.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 27",
+      "thumbnail": "/images/projects/the-system/thumbnails/27-20210712_211343.webp",
+      "full": "/images/projects/the-system/full/27-20210712_211343.webp",
+      "source": "20210712_211343.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 28",
+      "thumbnail": "/images/projects/the-system/thumbnails/28-20210712_211344.webp",
+      "full": "/images/projects/the-system/full/28-20210712_211344.webp",
+      "source": "20210712_211344.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 3024
+    },
+    {
+      "alt": "THE SYSTEM event photo 29",
+      "thumbnail": "/images/projects/the-system/thumbnails/29-20220123_093642.webp",
+      "full": "/images/projects/the-system/full/29-20220123_093642.webp",
+      "source": "20220123_093642.jpg",
+      "sourceWidth": 612,
+      "sourceHeight": 628
+    },
+    {
+      "alt": "THE SYSTEM event photo 30",
+      "thumbnail": "/images/projects/the-system/thumbnails/30-20220213_041407.webp",
+      "full": "/images/projects/the-system/full/30-20220213_041407.webp",
+      "source": "20220213_041407.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 2268
+    },
+    {
+      "alt": "THE SYSTEM event photo 31",
+      "thumbnail": "/images/projects/the-system/thumbnails/31-20220213_041409.webp",
+      "full": "/images/projects/the-system/full/31-20220213_041409.webp",
+      "source": "20220213_041409.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 2268
+    },
+    {
+      "alt": "THE SYSTEM event photo 32",
+      "thumbnail": "/images/projects/the-system/thumbnails/32-20220311_161512.webp",
+      "full": "/images/projects/the-system/full/32-20220311_161512.webp",
+      "source": "20220311_161512.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 33",
+      "thumbnail": "/images/projects/the-system/thumbnails/33-20220314_145224.webp",
+      "full": "/images/projects/the-system/full/33-20220314_145224.webp",
+      "source": "20220314_145224.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 34",
+      "thumbnail": "/images/projects/the-system/thumbnails/34-20220316_211342.webp",
+      "full": "/images/projects/the-system/full/34-20220316_211342.webp",
+      "source": "20220316_211342.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 35",
+      "thumbnail": "/images/projects/the-system/thumbnails/35-20220317_161153.webp",
+      "full": "/images/projects/the-system/full/35-20220317_161153.webp",
+      "source": "20220317_161153.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 36",
+      "thumbnail": "/images/projects/the-system/thumbnails/36-20220317_164821.webp",
+      "full": "/images/projects/the-system/full/36-20220317_164821.webp",
+      "source": "20220317_164821.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 37",
+      "thumbnail": "/images/projects/the-system/thumbnails/37-20220317_164829.webp",
+      "full": "/images/projects/the-system/full/37-20220317_164829.webp",
+      "source": "20220317_164829.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 38",
+      "thumbnail": "/images/projects/the-system/thumbnails/38-20220317_220804.webp",
+      "full": "/images/projects/the-system/full/38-20220317_220804.webp",
+      "source": "20220317_220804.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 39",
+      "thumbnail": "/images/projects/the-system/thumbnails/39-20220317_220813.webp",
+      "full": "/images/projects/the-system/full/39-20220317_220813.webp",
+      "source": "20220317_220813.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 40",
+      "thumbnail": "/images/projects/the-system/thumbnails/40-20220317_220825.webp",
+      "full": "/images/projects/the-system/full/40-20220317_220825.webp",
+      "source": "20220317_220825.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 41",
+      "thumbnail": "/images/projects/the-system/thumbnails/41-20220317_220828.webp",
+      "full": "/images/projects/the-system/full/41-20220317_220828.webp",
+      "source": "20220317_220828.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 42",
+      "thumbnail": "/images/projects/the-system/thumbnails/42-20220319_191153.webp",
+      "full": "/images/projects/the-system/full/42-20220319_191153.webp",
+      "source": "20220319_191153.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 43",
+      "thumbnail": "/images/projects/the-system/thumbnails/43-20220320_202806.webp",
+      "full": "/images/projects/the-system/full/43-20220320_202806.webp",
+      "source": "20220320_202806.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 44",
+      "thumbnail": "/images/projects/the-system/thumbnails/44-20220320_202814.webp",
+      "full": "/images/projects/the-system/full/44-20220320_202814.webp",
+      "source": "20220320_202814.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 45",
+      "thumbnail": "/images/projects/the-system/thumbnails/45-20220320_202828.webp",
+      "full": "/images/projects/the-system/full/45-20220320_202828.webp",
+      "source": "20220320_202828.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 46",
+      "thumbnail": "/images/projects/the-system/thumbnails/46-20220320_202857.webp",
+      "full": "/images/projects/the-system/full/46-20220320_202857.webp",
+      "source": "20220320_202857.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 47",
+      "thumbnail": "/images/projects/the-system/thumbnails/47-20220320_202900.webp",
+      "full": "/images/projects/the-system/full/47-20220320_202900.webp",
+      "source": "20220320_202900.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 48",
+      "thumbnail": "/images/projects/the-system/thumbnails/48-20220320_202909.webp",
+      "full": "/images/projects/the-system/full/48-20220320_202909.webp",
+      "source": "20220320_202909.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 49",
+      "thumbnail": "/images/projects/the-system/thumbnails/49-20220320_202911.webp",
+      "full": "/images/projects/the-system/full/49-20220320_202911.webp",
+      "source": "20220320_202911.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 50",
+      "thumbnail": "/images/projects/the-system/thumbnails/50-20220320_202926.webp",
+      "full": "/images/projects/the-system/full/50-20220320_202926.webp",
+      "source": "20220320_202926.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 51",
+      "thumbnail": "/images/projects/the-system/thumbnails/51-20220320_202941.webp",
+      "full": "/images/projects/the-system/full/51-20220320_202941.webp",
+      "source": "20220320_202941.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 52",
+      "thumbnail": "/images/projects/the-system/thumbnails/52-20220320_202958.webp",
+      "full": "/images/projects/the-system/full/52-20220320_202958.webp",
+      "source": "20220320_202958.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 53",
+      "thumbnail": "/images/projects/the-system/thumbnails/53-20220320_203012.webp",
+      "full": "/images/projects/the-system/full/53-20220320_203012.webp",
+      "source": "20220320_203012.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 54",
+      "thumbnail": "/images/projects/the-system/thumbnails/54-20220320_203022.webp",
+      "full": "/images/projects/the-system/full/54-20220320_203022.webp",
+      "source": "20220320_203022.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 55",
+      "thumbnail": "/images/projects/the-system/thumbnails/55-20220320_203032.webp",
+      "full": "/images/projects/the-system/full/55-20220320_203032.webp",
+      "source": "20220320_203032.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 56",
+      "thumbnail": "/images/projects/the-system/thumbnails/56-20220320_203039.webp",
+      "full": "/images/projects/the-system/full/56-20220320_203039.webp",
+      "source": "20220320_203039.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 57",
+      "thumbnail": "/images/projects/the-system/thumbnails/57-20220320_203100.webp",
+      "full": "/images/projects/the-system/full/57-20220320_203100.webp",
+      "source": "20220320_203100.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 58",
+      "thumbnail": "/images/projects/the-system/thumbnails/58-20220320_203102.webp",
+      "full": "/images/projects/the-system/full/58-20220320_203102.webp",
+      "source": "20220320_203102.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 59",
+      "thumbnail": "/images/projects/the-system/thumbnails/59-20220320_203104.webp",
+      "full": "/images/projects/the-system/full/59-20220320_203104.webp",
+      "source": "20220320_203104.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 60",
+      "thumbnail": "/images/projects/the-system/thumbnails/60-20220320_203111.webp",
+      "full": "/images/projects/the-system/full/60-20220320_203111.webp",
+      "source": "20220320_203111.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 61",
+      "thumbnail": "/images/projects/the-system/thumbnails/61-20220320_203126.webp",
+      "full": "/images/projects/the-system/full/61-20220320_203126.webp",
+      "source": "20220320_203126.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 62",
+      "thumbnail": "/images/projects/the-system/thumbnails/62-20220320_203128.webp",
+      "full": "/images/projects/the-system/full/62-20220320_203128.webp",
+      "source": "20220320_203128.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 63",
+      "thumbnail": "/images/projects/the-system/thumbnails/63-20220320_203139.webp",
+      "full": "/images/projects/the-system/full/63-20220320_203139.webp",
+      "source": "20220320_203139.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 64",
+      "thumbnail": "/images/projects/the-system/thumbnails/64-20220320_203145.webp",
+      "full": "/images/projects/the-system/full/64-20220320_203145.webp",
+      "source": "20220320_203145.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 65",
+      "thumbnail": "/images/projects/the-system/thumbnails/65-20220320_203147.webp",
+      "full": "/images/projects/the-system/full/65-20220320_203147.webp",
+      "source": "20220320_203147.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 66",
+      "thumbnail": "/images/projects/the-system/thumbnails/66-20220407_230511.webp",
+      "full": "/images/projects/the-system/full/66-20220407_230511.webp",
+      "source": "20220407_230511.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 67",
+      "thumbnail": "/images/projects/the-system/thumbnails/67-20220407_230515.webp",
+      "full": "/images/projects/the-system/full/67-20220407_230515.webp",
+      "source": "20220407_230515.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 68",
+      "thumbnail": "/images/projects/the-system/thumbnails/68-20220407_231140.webp",
+      "full": "/images/projects/the-system/full/68-20220407_231140.webp",
+      "source": "20220407_231140.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 69",
+      "thumbnail": "/images/projects/the-system/thumbnails/69-20220407_231144.webp",
+      "full": "/images/projects/the-system/full/69-20220407_231144.webp",
+      "source": "20220407_231144.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 70",
+      "thumbnail": "/images/projects/the-system/thumbnails/70-20220628_192346.webp",
+      "full": "/images/projects/the-system/full/70-20220628_192346.webp",
+      "source": "20220628_192346.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 71",
+      "thumbnail": "/images/projects/the-system/thumbnails/71-20220628_194712.webp",
+      "full": "/images/projects/the-system/full/71-20220628_194712.webp",
+      "source": "20220628_194712.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 72",
+      "thumbnail": "/images/projects/the-system/thumbnails/72-20221004_081519.webp",
+      "full": "/images/projects/the-system/full/72-20221004_081519.webp",
+      "source": "20221004_081519.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    },
+    {
+      "alt": "THE SYSTEM event photo 73",
+      "thumbnail": "/images/projects/the-system/thumbnails/73-20221004_081525.webp",
+      "full": "/images/projects/the-system/full/73-20221004_081525.webp",
+      "source": "20221004_081525.jpg",
+      "sourceWidth": 4032,
+      "sourceHeight": 1816
+    }
+  ]
+}
