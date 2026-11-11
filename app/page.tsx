@@ -69,11 +69,11 @@ export default function Home() {
 
             <div className="flex justify-center">
               <Image
-                src="/dna-colored-tree-logo-02.png"
-                alt="DNA colored tree logo"
+                src="/dna-logo-transparent.png"
+                alt="DNA Productions logo"
                 width={560}
                 height={560}
-                className="h-auto w-[300px] sm:w-[420px] lg:w-[500px]"
+                className="h-auto w-[300px] object-contain sm:w-[420px] lg:w-[500px]"
                 priority
               />
             </div>

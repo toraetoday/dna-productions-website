@@ -82,13 +82,6 @@ export const featuredProjects: ProjectItem[] = [
     showOnHome: true,
   },
   {
-    title: "Champion",
-    category: "Live event environment",
-    location: "Colorado",
-    image: "/images/portfolio/20190318_180008.jpg",
-    summary: "A layered production environment built with dramatic lighting, scenic structure, and immersive atmosphere.",
-  },
-  {
     title: "The System",
     category: "Sound + installation",
     location: "Regional venue",

@@ -1,12 +1,24 @@
 import { ProjectCard } from "@/components/project-card";
 import type { ProjectPhoto } from "@/components/project-gallery";
-import championPhotos from "@/data/champion-photos.json";
+import showProductionPhotos from "@/data/champion-photos.json";
 import systemPhotos from "@/data/system-photos.json";
 import { featuredProjects } from "@/data/site";
 
 function getProjectPhotos(title: string, image: string, additionalImages: string[] = []): ProjectPhoto[] {
-  if (title === "Champion") return championPhotos.photos;
-  if (title === "The System") return systemPhotos.photos;
+  if (title === "Show Production") {
+    const showProductionImage: ProjectPhoto = {
+      alt: "Show Production project photo 1",
+      thumbnail: image,
+      full: image,
+    };
+    const importedPhotos = showProductionPhotos.photos.map((photo, index) => ({
+      ...photo,
+      alt: `Show Production project photo ${index + 2}`,
+    }));
+
+    return [showProductionImage, ...importedPhotos];
+  }
+  if (title === "The System") return systemPhotos.photos.slice(3);
 
   return [image, ...additionalImages].map((src, index) => ({
     alt: `${title} project photo ${index + 1}`,
